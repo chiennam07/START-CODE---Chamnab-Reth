@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+body{
+    background: grey;
+    font-family: sans-serif;
+    margin: 5% 100px 5% 100px;
+}
+body div{
+    background-color: cyan;
+    margin-bottom: 30px;
+    padding: 0px 6px 0px 6px;
+    border-radius: 10px;
+}
+p{
+    color: blue;
+    padding-top: 20px;
+    margin: 0px 5px 10px 5px;
+}
+button{
+    background-color: yellowgreen;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 9px;
+    border-radius: 30px;
+    border-style: none;
+}
+button:hover{
+    background-color: blue;
+}
